@@ -1,5 +1,5 @@
 {
-  "name": "lets-chat-ldap",
+  "name": "lets-chat-freepbx-auth",
   "version": "0.0.1",
   "description": "FreePBX Auth add-on for Let's Chat",
   "license" : "MIT",
