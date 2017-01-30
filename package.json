@@ -1,0 +1,19 @@
+{
+  "name": "lets-chat-ldap",
+  "version": "0.0.1",
+  "description": "FreePBX Auth add-on for Let's Chat",
+  "license" : "MIT",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://git.freepbx.org/shmzl/lets-chat-freepbx-auth.git"
+  },
+  "author": {
+    "name": "Angel Velasquez",
+    "email": "avelasquez@sangoma.com"
+  },
+  "bugs": {
+    "url": "http://git.freepbx.org/projects/SHMZL/repos/lets-chat-freepbx-auth/browse"
+  },
+  "homepage": "http://git.freepbx.org/projects/SHMZL/repos/lets-chat-freepbx-auth/browse"
+}
