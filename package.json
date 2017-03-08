@@ -6,14 +6,14 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git://git.freepbx.org/shmzl/lets-chat-freepbx-auth.git"
+    "url": "git://git.freepbx.org/fl/lets-chat-freepbx-auth.git"
   },
   "author": {
     "name": "Angel Velasquez",
     "email": "avelasquez@sangoma.com"
   },
   "bugs": {
-    "url": "http://git.freepbx.org/projects/SHMZL/repos/lets-chat-freepbx-auth/browse"
+    "url": "http://git.freepbx.org/projects/FL/repos/lets-chat-freepbx-auth/browse"
   },
-  "homepage": "http://git.freepbx.org/projects/SHMZL/repos/lets-chat-freepbx-auth/browse"
+  "homepage": "http://git.freepbx.org/projects/FL/repos/lets-chat-freepbx-auth/browse"
 }
