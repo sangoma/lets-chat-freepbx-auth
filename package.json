@@ -1,6 +1,6 @@
 {
   "name": "lets-chat-freepbx-auth",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "FreePBX Auth add-on for Let's Chat",
   "license" : "MIT",
   "main": "lib/index.js",
